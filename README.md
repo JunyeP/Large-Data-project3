@@ -1,5 +1,5 @@
 # Large Scale Data Processing: Project 3
-## 📘 Problem 1: MIS Validation
+## Problem 1: MIS Validation
 
 Validation of whether the provided MIS files are valid for their respective graphs.
 
@@ -14,7 +14,7 @@ Validation of whether the provided MIS files are valid for their respective grap
 
 ---
 
-## ⏱️ Problem 2: Iteration and Time Analysis
+##  Problem 2: Iteration and Time Analysis
 
 Performance statistics of the MIS algorithm execution on various graph files.
 
@@ -28,11 +28,11 @@ Performance statistics of the MIS algorithm execution on various graph files.
 
 ---
 
-## ⚙️ Problem 3: Performance Across CPU Configurations
+##  Problem 3: Performance Across CPU Configurations
 
 Detailed analysis of Luby's algorithm performance on a large dataset with different virtual CPU configurations.
 
-### 🔹 3x4 vCPU
+### 3x4 vCPU
 
 - **Total Vertices:** 11,316,811  
 - **Total Execution Time:** 645,698 ms (646s)  
@@ -52,7 +52,7 @@ Detailed analysis of Luby's algorithm performance on a large dataset with differ
 
 ---
 
-### 🔹 4x2 vCPU
+### 4x2 vCPU
 
 - **Total Vertices:** 11,316,811  
 - **Total Execution Time:** 1,376,749 ms (1377s)  
@@ -71,7 +71,7 @@ Detailed analysis of Luby's algorithm performance on a large dataset with differ
 
 ---
 
-### 🔹 2x2 vCPU
+### 2x2 vCPU
 
 - **Total Vertices:** 11,316,811  
 - **Total Execution Time:** 2,368,258 ms (2369s)  
